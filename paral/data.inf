@@ -1,0 +1,11 @@
+
+NCAN=5
+NPOINTS=1500
+NMS=1
+FORMAT=byte
+LABEL=500
+wp1.adc
+wp2.adc
+wp3.adc
+wp4.adc
+wp5.adc

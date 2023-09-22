@@ -1,0 +1,11 @@
+
+ncan=5
+npoints=1500
+nms=1
+format=byte
+label=500
+wp1.adc
+wp2.adc
+wp3.adc
+wp4.adc
+wp5.adc

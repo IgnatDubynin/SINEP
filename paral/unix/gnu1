@@ -1,0 +1,14 @@
+#set yrange [-60000:220]
+set xlabel 'X'
+set ylabel 'Pot'
+set title 'Poisson solve'
+plot 'proba_1.sep' using 1 title  'm=1' with lines
+pause -1 "Hit return to continue"
+plot 'proba_1.sep' using 2 title  'm=1' with lines
+pause -1 "Hit return to continue"
+plot 'proba_1.sep' using 3 title  'm=1' with lines
+pause -1 "Hit return to continue"
+plot 'proba_1.sep' using 4 title  'm=1' with lines
+pause -1 "Hit return to continue"
+plot 'proba_1.sep' using 5 title  'm=1' with lines
+pause -1 "Hit return to continue"
